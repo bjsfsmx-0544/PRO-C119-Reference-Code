@@ -2,7 +2,7 @@
 FILOSOFÍA DE UN CHATBOT  
 Python. NLTK.  
   
-Lesson plan.  
+Plan de la clase.  
 Código de referencia de la maestra.  
   
 ### Texto en inglés: PRO-C119-Reference-Code
